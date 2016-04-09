@@ -1,0 +1,15 @@
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\PyProjects\tipe10ru\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\PyProjects\CodeCombat\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\abce\.svn
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\DataTable\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\Facebook\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\Google\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\JS-SCRIPTS\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\tto\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\Apache\localhost\www\Autorize\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\PHP-SCRIPTS\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\SHELLS\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\Stripe\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\Autorize\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\WEB-RTC\.git
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\WEB-SOCKETS\.git
