@@ -24,3 +24,4 @@ gource combined.txt --key --title "Your clip name" --bloom-multiplier 0.5 --bloo
 --user-image-dir /Users/datle/Zalora/avatar/ --hide filenames --seconds-per-day 0.2 \
 --auto-skip-seconds 1 -1280x720 -o - \
 | ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset ultrafast -pix_fmt yuv420p -crf 1 -threads 4 -bf 0 combined.mp4
+gource 1280x1024 -f  --hide dirnames,filenames,mouse,progress --highlight-all-users --multi-sampling E:\Program Files\phpProjects\tto\.git
