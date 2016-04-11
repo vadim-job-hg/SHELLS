@@ -7,7 +7,7 @@ sed -i -r "s#(.+)\|#\1|/repo1#" repo1.txt
 sed -i -r "s#(.+)\|#\1|/repo2#" repo2.txt
 ...
 sed -i -r "s#(.+)\|#\1|/repon#" repon.txt
-cd "gourse_merge"
+cd gourse_merge
 cat *.txt | sort -n > combined.txt
 
 gource combined.txt --key --title "Your clip name" --bloom-multiplier 0.5 --bloom-intensity 0.5 \--user-image-dir /Users/datle/Zalora/avatar/ --hide filenames --seconds-per-day 0.2 \--auto-skip-seconds 1 -1280x720 -o - \| ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset ultrafast -pix_fmt yuv420p -crf 1 -threads 4 -bf 0 combined.mp4
