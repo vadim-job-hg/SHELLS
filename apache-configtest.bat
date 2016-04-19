@@ -1,0 +1,1 @@
+e:\path-to-file\httpd.exe -t
