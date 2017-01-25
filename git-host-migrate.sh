@@ -10,7 +10,7 @@ done
 
 git pull --all
 
-git remote add new-origin path-to-repository
+git remote add new-origin ssh://git@path/to/repository.git
 
 git push --all new-origin
 
