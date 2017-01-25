@@ -3,7 +3,6 @@
 git fetch --all
 
 git checkout master ;
-remote=origin ;
 for branch in $(git branch --all | grep '^\s*remotes' | egrep --invert-match '(:?HEAD|master)$'); do
     git branch --track "${branch##*/}" "$branch";
 done
